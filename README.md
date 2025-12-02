@@ -5,19 +5,21 @@ This project analyzes my personal activity data recorded by the Apple Health app
 
 ## Methodology
 
-- Data Retrieval: [My steps Data](https://github.com/smchugg16/StepsDataProject/blob/main/StepsDataJuly2025.xlsx) was collected from the Apple Health app on my iPhone. Weather data was pulled from [Weather Underground](https://www.wunderground.com/) and combined with the Apple Health data in a master data sheet using Excel. Additional variables included:
--    high and low temperature (°F)
--    precipitation levels (in inches)
--    general weather conditions for each date
+- **Data Retrieval:**  
+  [My steps Data](https://github.com/smchugg16/StepsDataProject/blob/main/StepsDataJuly2025.xlsx) was collected from the Apple Health app on my iPhone. Weather data was pulled from [Weather Underground](https://www.wunderground.com/) and combined with the Apple Health data in a master data sheet using Excel. Additional variables included:
+  - High and low temperature (°F)
+  - Precipitation levels (in inches)
+  - General weather conditions for each date
 
-- Visualization: The dataset was imported into Tableau to create visualizations to showcase and interpret my own Personal Activity. These included:
- - Total number of steps
- - Average steps per day
- - Most active month (by average daily steps)
- - Monthly average step count (line graph)
- - Relationship between weather type and step count (box-and-whisker plot)
- - Average activity by day of the week (bar chart)
- - Correlation between high temperature and step count (scatter plot + regression line)
+- **Visualization:**  
+  The dataset was imported into Tableau to create visualizations that showcase and interpret my Personal Activity. These included:
+  - Total number of steps
+  - Average steps per day
+  - Most active month (by average daily steps)
+  - Monthly average step count (line graph)
+  - Relationship between weather type and step count (box-and-whisker plot)
+  - Average activity by day of the week (bar chart)
+  - Correlation between high temperature and step count (scatter plot + regression line)
 
 ## Dashboard
 
