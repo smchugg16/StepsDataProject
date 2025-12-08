@@ -6,7 +6,7 @@ This project analyzes my personal activity data recorded by the Apple Health app
 ## Methodology
 
 - **Data Retrieval:**  
-  [My steps Data](https://github.com/smchugg16/StepsDataProject/blob/main/StepsDataJuly2025.xlsx) was collected from the Apple Health app on my iPhone. Weather data was pulled from [Weather Underground](https://www.wunderground.com/) and combined with the Apple Health data in a master data sheet using Excel. Additional variables included:
+  My [Steps Data](https://github.com/smchugg16/StepsDataProject/blob/main/StepsDataJuly2025.xlsx) was collected from the Apple Health app on my iPhone. Weather data was pulled from [Weather Underground](https://www.wunderground.com/) and combined with the Apple Health data in a master data sheet using Excel. Additional variables included:
   - High and low temperature (°F)
   - Precipitation levels (in inches)
   - General weather conditions for each date
